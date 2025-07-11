@@ -54,10 +54,13 @@ The application is structured using object-oriented principles and is a great ex
 
 ---
 ##🔧 Database Connection
+
 Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/your_database_name", "root", "");
 Replace "your_database_name" with your actual DB name.
+
 ---
 ## 📁 Project Structure
+
 src/
 └── schoolmanagementsystem/
     ├── SchoolManagementSystem.java
@@ -65,13 +68,17 @@ src/
     ├── Teacher.java
     ├── Course.java
     └── ... other GUI and logic files
+    
  ---   
 ## 🤝 Contributing
+
 Contributions are welcome!
 If you'd like to improve the project, feel free to fork and submit a pull request.
+
 ---
 ## 📜 License
 This project is open source and available under the MIT License.
+
 ---
 ## 🙋‍♂️ Author
 Gursimrat Kaur (Gu-4)
