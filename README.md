@@ -52,11 +52,12 @@ The application is structured using object-oriented principles and is a great ex
 <img width="576" height="495" alt="image" src="https://github.com/user-attachments/assets/7f0e93e5-29c4-41ae-96ce-83f751acbd65" />
 <img width="559" height="494" alt="image" src="https://github.com/user-attachments/assets/b1430ab8-cca9-4617-9ed9-1ad64633d3b4" />
 
-🔧 Database Connection
+---
+##🔧 Database Connection
 Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/your_database_name", "root", "");
 Replace "your_database_name" with your actual DB name.
-
-📁 Project Structure
+---
+## 📁 Project Structure
 src/
 └── schoolmanagementsystem/
     ├── SchoolManagementSystem.java
@@ -64,14 +65,14 @@ src/
     ├── Teacher.java
     ├── Course.java
     └── ... other GUI and logic files
-    
-🤝 Contributing
+ ---   
+## 🤝 Contributing
 Contributions are welcome!
 If you'd like to improve the project, feel free to fork and submit a pull request.
-
-📜 License
+---
+## 📜 License
 This project is open source and available under the MIT License.
-
-🙋‍♂️ Author
+---
+## 🙋‍♂️ Author
 Gursimrat Kaur (Gu-4)
 GitHub Profile
